@@ -47,6 +47,7 @@ This is my Go stack under IT Framework.
 ### Testing
 
 - https://github.com/smartystreets/goconvey (Browser and terminal-based)
+- https://github.com/stretchr/testify (another alternative)
 
 ### SQL
 
