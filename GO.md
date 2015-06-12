@@ -59,7 +59,6 @@ This is my Go stack under IT Framework.
 - https://github.com/garyburd/redigo (Redis client)
 - https://github.com/fzzy/radix (Redis client)
 - https://github.com/influxdb/influxdb (Time-series)
-- https://github.com/mesos/mesos-go (Mesos binding)
 - https://github.com/boltdb/bolt (Key/value store)
 - https://github.com/google/cayley (Triplestore)
 - https://github.com/akualab/graph (In-memory graph data structure)
@@ -77,3 +76,4 @@ This is my Go stack under IT Framework.
 
 - https://github.com/robfig/cron (Cron)
 - https://github.com/ajvb/kala (Job scheduler)
+- https://github.com/mesos/mesos-go (Mesos binding)
