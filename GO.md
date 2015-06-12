@@ -4,6 +4,8 @@ This is my Go stack under IT Framework.
 
 - https://github.com/chuckpreslar/emission (Event Emitter)
 - https://github.com/ibmendoza/remarshal (JSON, TOML, YAML converter)
+- https://github.com/Workiva/go-datastructures (Data structure)
+- https://github.com/fatih/set (Set data structure)
 
 
 ### Web development
