@@ -1,20 +1,48 @@
 This is my Go stack under IT Framework.
 
-### Web
+### Coding
+
+- https://github.com/chuckpreslar/emission (Event Emitter)
+- https://github.com/ibmendoza/remarshal (JSON, TOML, YAML converter)
+
+
+### Web development
 
 - https://github.com/VividCortex/siesta (Web framework)
-- https://github.com/astaxie/bat (cURL tool)
 - https://github.com/antonholmquist/jason (JSON reading)
 - https://github.com/julienschmidt/httprouter (HTTP router)
 - https://github.com/labstack/echo (Small Web framework)
-- https://github.com/mholt/caddy (HTTP/2 Web server)
 - https://github.com/fvbock/endless (Zero downtime for HTTP/S servers)
 - https://github.com/ibmendoza/jwt (JSON Web Token)
 - https://github.com/ibmendoza/salt (NaCl Token)
 
+### Security
+
+- https://github.com/ereyes01/cryptohelper (NaCl wrapper)
+
+
+### Web tools
+
+- https://github.com/ymotongpoo/httpgo (Clone of HTTPie)
+- https://github.com/astaxie/bat (cURL tool)
+- https://github.com/mholt/caddy (HTTP/2 Web server)
+- https://github.com/hoisie/mustache (Mustache template)
+
+### Scripting
+
+- https://github.com/daviddengcn/gosl (Go Script Language)
+- https://github.com/robertkrimen/otto (JavaScript VM)
+- https://github.com/mattn/go-v8 (V8 binding)
+
 ### Documentation
 
 - https://github.com/ibmendoza/ezdocs (HTML documentation)
+- https://github.com/russross/blackfriday (Markdown to HTML)
+
+### Build
+
+- https://github.com/mitchellh/gox (Go cross compilation)
+
 
 ### Testing
 
@@ -35,7 +63,7 @@ This is my Go stack under IT Framework.
 - https://github.com/boltdb/bolt (Key/value store)
 - https://github.com/google/cayley (Triplestore)
 - https://github.com/akualab/graph (In-memory graph data structure)
-- 
+- https://github.com/awalterschulze/gographviz (Graphviz tool)
 
 ### Configuration Management
 
