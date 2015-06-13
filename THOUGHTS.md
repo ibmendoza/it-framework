@@ -15,7 +15,7 @@ Compiled by Isagani Mendoza (http://itjumpstart.wordpress.com)
 
 <h3>SHARE</h3>
 
-You can freely share this PDF as long as it is not used for any commercial purposes.
+You can freely share this [PDF](https://itjumpstart.files.wordpress.com/2015/06/thoughts.pdf) as long as it is not used for any commercial purposes.
 
 <h1>Requirements Gathering</h1>
 
