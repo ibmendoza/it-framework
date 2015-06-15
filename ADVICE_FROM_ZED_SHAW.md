@@ -1,4 +1,4 @@
-This advice is courtesy of [Zed Shaw](http://learnpythonthehardway.org/book/advice.html): 
+This advice is courtesy of [**Zed Shaw**](http://learnpythonthehardway.org/book/advice.html): 
 
 You've finished this book and have decided to continue with programming. Maybe it will be a career for you, or maybe it will be a hobby. You'll need some advice to make sure you continue on the right path and get the most enjoyment out of your newly chosen activity.
 
@@ -6,7 +6,7 @@ I've been programming for a very long time. So long that it's incredibly boring 
 
 What I discovered after this journey of learning is that it's not the languages that matter but what you do with them. Actually, I always knew that, but I'd get distracted by the languages and forget it periodically. Now I never forget it, and neither should you.
 
-Which programming language you learn and use doesn't matter. Do not get sucked into the religion surrounding programming languages as that will only blind you to their true purpose of being your tool for doing interesting things.
+Which programming language you learn and use doesn't matter. **Do not get sucked into the religion surrounding programming languages as that will only blind you to their true purpose of being your tool** for doing interesting things.
 
 Programming as an intellectual activity is the only art form that allows you to create interactive art. You can create projects that other people can play with, and you can talk to them indirectly. No other art form is quite this interactive. Movies flow to the audience in one direction. Paintings do not move. Code goes both ways.
 
