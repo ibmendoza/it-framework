@@ -53,23 +53,22 @@ This leaves Specification by Example as the most meaningful name with the least 
 - Use JWT, not cookies
 - Use libraries, not frameworks
 - Use functional programming where appropriate
-- Use CommonJS for JS modules
 - Use static pages, not MVC
 - No class-based OOP
 - Use JSON as data transport
 
 **Application Tier**
 
-- No RPC. Use REST/HTTP
+- REST/HTTP is control plane, RPC is data plane
 - No UML. Visualize graph of interfaces
 - Break down logic into units that focus on doing one thing well
 - Use interface, not dependency injection
-- Application logic, not data logic
+- Separate read from write
 
 **Storage Tier**
 
 - Use SQL, not ORM
-- Minimize data logic (stored procs, triggers, UDFs in RDBMS)
+- No data logic in RDBMS (stored procs, triggers, UDFs)
 - No three-valued logic. Use sensible default instead of "null"
 - Enforce foreign key constraints at the application tier
 - Do not abuse relational model. Use non-relational model where appropriate
